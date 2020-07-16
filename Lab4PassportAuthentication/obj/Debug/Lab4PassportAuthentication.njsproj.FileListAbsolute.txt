@@ -1,0 +1,2 @@
+C:\Users\Arsh Gosal\source\repos\Lab4PassportAuthentication\Lab4PassportAuthentication\obj\Debug\Lab4PassportAuthentication.njsprojAssemblyReference.cache
+C:\Users\Arsh Gosal\source\repos\Lab4PassportAuthentication\Lab4PassportAuthentication\bin\Microsoft.NodejsTools.WebRole.dll
